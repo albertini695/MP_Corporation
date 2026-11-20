@@ -1,5 +1,5 @@
-# MP Organization
-*Mechatronic Projects Organization — nombre provisional*
+# MP Corporation
+*Mechatronic Projects Corporation — nombre provisional*
 
 > Laboratorio personal para aprender, diseñar, construir, probar y documentar proyectos mecatrónicos.
 
@@ -7,7 +7,7 @@
 
 ## 1. Qué es (y qué no es todavía)
 
-En esta etapa, MP Organization es un **laboratorio personal de aprendizaje**: un sistema ordenado para desarrollar proyectos mecatrónicos, empezando por los básicos y avanzando a los intermedios.
+En esta etapa, MP Corporation es un **laboratorio personal de aprendizaje**: un sistema ordenado para desarrollar proyectos mecatrónicos, empezando por los básicos y avanzando a los intermedios.
 
 **Todavía no es una empresa.** La misión, la visión, los valores, la estructura legal y el modelo de negocio se definirán más adelante, cuando haya un portafolio de proyectos terminados que lo justifique.
 
@@ -102,7 +102,7 @@ Las secciones 02 a 06 no siempre intervienen todas: un proyecto básico puede us
 
 ## 6. Uso junto con Claude
 
-Esta carpeta se acompaña del Proyecto **"MP Organization"** en Claude.
+Esta carpeta se acompaña del Proyecto **"MP Corporation"** en Claude.
 
 - Abrir un chat por sección y por proyecto, con un título que lleve prefijo. Por ejemplo: `[03] MP-003 Puente H` o `[01] Banco de ideas`.
 - Al iniciar un chat, indicar la sección y el ID del proyecto.

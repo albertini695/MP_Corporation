@@ -1,4 +1,4 @@
-# Registro de Proyectos — MP Organization
+# Registro de Proyectos — MP Corporation
 
 Esta es la fuente única de verdad sobre el estado de cada proyecto.
 Estados posibles: Idea · Investigación · Diseño · Construcción · Pruebas · Completado · Pausado · Descartado
