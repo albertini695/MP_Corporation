@@ -1,0 +1,17 @@
+# ===== MP Corporation: archivos que Git no debe subir =====
+
+# Configuración del editor (VS Code)
+.vscode/
+
+# Python: caché y entornos virtuales
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Archivos temporales de Office (se crean al abrir un .docx/.xlsx)
+~$*
+
+# Archivos del sistema Windows
+Thumbs.db
+desktop.ini
